@@ -30,5 +30,5 @@ Digital-Analog Converter with DMA Tutorial
 
 
 
-Bahadir Aydinoglu
+Bahadir AYDINOĞLU
 @2018
